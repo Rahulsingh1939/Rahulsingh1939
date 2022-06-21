@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Rahulsingh1939
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning React Js.
+- 💞️ I’m looking to collaborate on a constructive Front End project. 
 - 📫 How to reach me ...
 
 <!---
