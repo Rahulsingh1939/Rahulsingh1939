@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Rahulsingh1939
 - 👀 I’m interested in Web Development
 - Programming Enthusiaist.
-- 3 ✨✨✨ at CodeChef.  https://www.codechef.com/users/binary_rahul
 - 5 ✨✨✨✨✨ at HackerRank.
 - 🌱 I’m currently learning React Js.
 - 💞️ I’m looking to collaborate on a constructive Front End project. 
